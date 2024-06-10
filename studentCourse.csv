@@ -1,0 +1,821 @@
+,Student Name,Course Code
+0,Mostafa Walid,MAT121
+1,Mostafa Walid,AIE343
+2,Mostafa Walid,AIE231
+3,Mostafa Walid,AIE332
+4,Mariem Gohary,MAT121
+5,Mariem Gohary,AIE343
+6,Mariem Gohary,AIE231
+7,Mariem Gohary,AIE332
+8,Shahd Ahmed,MAT121
+9,Shahd Ahmed,AIE343
+10,Shahd Ahmed,AIE231
+11,Shahd Ahmed,AIE332
+12,Kareem Ahmed,AIE121
+13,Kareem Ahmed,CSE251
+14,Kareem Ahmed,AIE323
+15,Kareem Ahmed,CSE315
+16,Sondos Ghonim,AIE121
+17,Sondos Ghonim,CSE251
+18,Sondos Ghonim,AIE323
+19,Sondos Ghonim,CSE315
+20,Mostafa Mohamed,MAT121
+21,Mostafa Mohamed,AIE343
+22,Mostafa Mohamed,AIE231
+23,Mostafa Mohamed,AIE332
+24,Mohamed Ayman,MAT121
+25,Mohamed Ayman,AIE343
+26,Mohamed Ayman,AIE231
+27,Mohamed Ayman,AIE332
+28,Ahmed Mohsen,AIE121
+29,Ahmed Mohsen,CSE251
+30,Ahmed Mohsen,AIE323
+31,Ahmed Mohsen,CSE315
+32,Mohamed Ahmed,AIE121
+33,Mohamed Ahmed,CSE251
+34,Mohamed Ahmed,AIE323
+35,Mohamed Ahmed,CSE315
+36,Mohamed Yasser,MAT121
+37,Mohamed Yasser,AIE343
+38,Mohamed Yasser,AIE231
+39,Mohamed Yasser,AIE332
+40,Menna Ahmed,AIE121
+41,Menna Ahmed,CSE251
+42,Menna Ahmed,AIE323
+43,Menna Ahmed,CSE315
+44,Mariem Mahmoud,AIE121
+45,Mariem Mahmoud,CSE251
+46,Mariem Mahmoud,AIE323
+47,Mariem Mahmoud,CSE315
+48,Mahmoud Mohsn,AIE351
+49,Mahmoud Mohsn,CSE251
+50,Mahmoud Mohsn,CSE383
+51,Hesham Ahmed,AIE351
+52,Hesham Ahmed,CSE251
+53,Hesham Ahmed,CSE383
+54,Ibrahim Mohamed,AIE351
+55,Ibrahim Mohamed,CSE251
+56,Ibrahim Mohamed,CSE383
+57,Marwan Said,AIE351
+58,Marwan Said,CSE251
+59,Marwan Said,CSE383
+60,Tamer Mohamed,AIE351
+61,Tamer Mohamed,CSE251
+62,Tamer Mohamed,CSE383
+63,Marwan Mohamed,AIE351
+64,Marwan Mohamed,CSE251
+65,Marwan Mohamed,CSE383
+66,Tamer Said,AIE351
+67,Tamer Said,CSE251
+68,Tamer Said,CSE383
+69,Ahmed Mohamed,AIE351
+70,Ahmed Mohamed,CSE251
+71,Ahmed Mohamed,CSE383
+72,Hamed Ahmed,MAT121
+73,Hamed Ahmed,AIE343
+74,Hamed Ahmed,AIE231
+75,Hamed Ahmed,AIE332
+76,Omar Nagy,MAT123
+77,Omar Nagy,CSE272
+78,Omar Nagy,CSE014
+79,Mostafa Ahmed,MAT123
+80,Mostafa Ahmed,CSE272
+81,Mostafa Ahmed,CSE014
+82,Ahmed Ashraf,MAT123
+83,Ahmed Ashraf,CSE272
+84,Ahmed Ashraf,CSE014
+85,Mohamed Ibrahim,MAT123
+86,Mohamed Ibrahim,CSE272
+87,Mohamed Ibrahim,CSE014
+88,Youssef Maged,MAT123
+89,Youssef Maged,CSE272
+90,Youssef Maged,CSE014
+91,Mohamed Wael,MAT123
+92,Mohamed Wael,CSE272
+93,Mohamed Wael,CSE014
+94,Ganna Mohamed,MAT123
+95,Ganna Mohamed,CSE272
+96,Ganna Mohamed,CSE014
+97,Jana Ahmed,MAT123
+98,Jana Ahmed,CSE272
+99,Jana Ahmed,CSE014
+100,Mariem Mohamed,MAT123
+101,Mariem Mohamed,ELE437
+102,Mariem Mohamed,MAT112
+103,Mohamed Said,MAT123
+104,Mohamed Said,ELE437
+105,Mohamed Said,MAT112
+106,Omar Mohamed,MAT123
+107,Omar Mohamed,ELE437
+108,Omar Mohamed,MAT112
+109,Youssef Amer,CSE243
+110,Youssef Amer,PHY232
+111,Youssef Amer,AIE332
+112,Mohamed Kazem,CSE243
+113,Mohamed Kazem,PHY232
+114,Mohamed Kazem,AIE332
+115,Bishoy Magdy,CSE243
+116,Bishoy Magdy,PHY232
+117,Bishoy Magdy,AIE332
+118,Peter Sameh,MAT112
+119,Peter Sameh,CSE112
+120,Youssef Mahmoud,MAT112
+121,Youssef Mahmoud,CSE112
+122,Ahmed Amer,CSE243
+123,Ahmed Amer,PHY232
+124,Ahmed Amer,AIE332
+125,Mahmoud Ahmed,MAT112
+126,Mahmoud Ahmed,AIE213
+127,Mahmoud Ahmed,CSE112
+128,Ahmed Mahmoud,MAT112
+129,Ahmed Mahmoud,AIE213
+130,Ahmed Mahmoud,CSE112
+131,Mohamed Mostafa,MAT112
+132,Mohamed Mostafa,AIE213
+133,Mohamed Mostafa,CSE112
+134,Khalid Kamal,MAT112
+135,Khalid Kamal,AIE213
+136,Khalid Kamal,CSE112
+137,Mahmoud Walid,MAT112
+138,Mahmoud Walid,AIE213
+139,Mahmoud Walid,CSE112
+140,Mohamed Khalid,MAT112
+141,Mohamed Khalid,AIE213
+142,Mohamed Khalid,AIE343
+143,Hesham Mohamed,MAT112
+144,Hesham Mohamed,AIE213
+145,Hesham Mohamed,AIE343
+146,Amr Ali,MAT112
+147,Amr Ali,AIE213
+148,Amr Ali,AIE343
+149,Ali Mohamed,MAT112
+150,Ali Mohamed,AIE213
+151,Ali Mohamed,MAT121
+152,Khalid Mohamed,MAT112
+153,Khalid Mohamed,AIE213
+154,Khalid Mohamed,MAT121
+155,Ahmed Hashem,MAT112
+156,Ahmed Hashem,AIE213
+157,Ahmed Hashem,MAT121
+158,Amr Hashem,MAT112
+159,Amr Hashem,AIE213
+160,Amr Hashem,MAT121
+161,Amr Hashem,CSE221
+162,Ahmed Hashem,CSE221
+163,Khalid Mohamed,CSE221
+164,sara ayman,CSE272
+165,sara ayman,CSE273
+166,sara ayman,AIE425
+167,sara ayman,MAT231
+168,sara ayman,CSE243
+169,sara ayman,AIE213
+170,youssr mohamed,CSE272
+171,youssr mohamed,CSE273
+172,youssr mohamed,AIE425
+173,youssr mohamed,MAT231
+174,youssr mohamed,CSE243
+175,youssr mohamed,AIE213
+176,sohyla dyab,CSE272
+177,sohyla dyab,CSE273
+178,sohyla dyab,CSE243
+179,sohyla dyab,AIE425
+180,sohyla dyab,MAT231
+181,sohyla dyab,AIE213
+182,ola zaky,CSE272
+183,ola zaky,AIE213
+184,ola zaky,MAT231
+185,ola zaky,CSE243
+186,ola zaky,AIE425
+187,ola zaky,CSE273
+188,kholoud ali,CSE272
+189,kholoud ali,AIE213
+190,kholoud ali,MAT231
+191,kholoud ali,CSE243
+192,kholoud ali,AIE425
+193,kholoud ali,CSE273
+194,arwa hatem,CSE272
+195,arwa hatem,MAT231
+196,arwa hatem,AIE213
+197,arwa hatem,CSE243
+198,arwa hatem,CSE273
+199,arwa hatem,AIE425
+200,shahd mohamed,CSE272
+201,shahd mohamed,AIE213
+202,shahd mohamed,MAT231
+203,shahd mohamed,CSE243
+204,shahd mohamed,AIE425
+205,shahd mohamed,CSE273
+206,hazem ahmed,CSE272
+207,hazem ahmed,MAT231
+208,hazem ahmed,AIE213
+209,hazem ahmed,AIE425
+210,hazem ahmed,CSE273
+211,hazem ahmed,CSE243
+212,ali shreif,CSE272
+213,ali shreif,AIE213
+214,ali shreif,AIE425
+215,ali shreif,CSE273
+216,ali shreif,CSE243
+217,ali shreif,MAT231
+218,kareem abdelazez,CSE272
+219,kareem abdelazez,AIE213
+220,kareem abdelazez,MAT231
+221,kareem abdelazez,CSE243
+222,kareem abdelazez,AIE425
+223,kareem abdelazez,CSE273
+224,ahmed hany,CSE272
+225,ahmed hany,AIE213
+226,ahmed hany,CSE273
+227,ahmed hany,CSE243
+228,ahmed hany,MAT231
+229,ahmed hany,AIE425
+230,loay gamal,CSE272
+231,loay gamal,AIE213
+232,loay gamal,AIE425
+233,loay gamal,CSE273
+234,loay gamal,CSE243
+235,loay gamal,MAT231
+236,ahmed samir,CSE272
+237,ahmed samir,AIE213
+238,ahmed samir,CSE273
+239,ahmed samir,CSE243
+240,ahmed samir,AIE425
+241,ahmed samir,MAT231
+242,ahmed kamal,CSE272
+243,ahmed kamal,CSE273
+244,ahmed kamal,AIE425
+245,ahmed kamal,CSE243
+246,ahmed kamal,AIE213
+247,ahmed kamal,MAT231
+248,ali kamal,MAT231
+249,ali kamal,AIE213
+250,ali kamal,CSE243
+251,ali kamal,CSE273
+252,ali kamal,AIE425
+253,ali kamal,CSE272
+254,kareem wael,MAT231
+255,kareem wael,AIE213
+256,kareem wael,CSE243
+257,kareem wael,AIE425
+258,kareem wael,CSE273
+259,kareem wael,CSE272
+260,ahmed ramy,MAT231
+261,ahmed ramy,AIE213
+262,ahmed ramy,CSE243
+263,ahmed ramy,AIE425
+264,ahmed ramy,CSE273
+265,ahmed ramy,CSE272
+266,yossef sayed,MAT231
+267,yossef sayed,AIE213
+268,yossef sayed,CSE243
+269,yossef sayed,AIE425
+270,yossef sayed,CSE273
+271,yossef sayed,CSE272
+272,Mohamed kamal,MAT231
+273,Mohamed kamal,AIE213
+274,Mohamed kamal,CSE243
+275,Mohamed kamal,AIE425
+276,Mohamed kamal,CSE273
+277,Mohamed kamal,CSE272
+278,Mostafa wahed,MAT231
+279,Mostafa wahed,AIE213
+280,Mostafa wahed,CSE243
+281,Mostafa wahed,AIE425
+282,Mostafa wahed,CSE273
+283,Mostafa wahed,CSE272
+284,Omar Adly,PHY261
+285,Omar Adly,CSE015
+286,Omar Adly,CSE113
+287,Omar Adly,AIE323
+288,Omar Adly,AIE111
+289,Omar Adly,CSE014
+290,Mohamed Hesham,PHY261
+291,Mohamed Hesham,CSE015
+292,Mohamed Hesham,CSE113
+293,Mohamed Hesham,AIE323
+294,Mohamed Hesham,AIE111
+295,Mohamed Hesham,CSE014
+296,Ali Maher ,PHY261
+297,Ali Maher ,CSE015
+298,Ali Maher ,CSE113
+299,Ali Maher ,AIE323
+300,Ali Maher ,AIE111
+301,Ali Maher ,CSE014
+302,Mostafa Ali ,PHY261
+303,Mostafa Ali ,CSE015
+304,Mostafa Ali ,CSE113
+305,Mostafa Ali ,AIE323
+306,Mostafa Ali ,AIE111
+307,Mostafa Ali ,CSE014
+308,Eman Kamal ,PHY261
+309,Eman Kamal ,CSE015
+310,Eman Kamal ,CSE113
+311,Eman Kamal ,AIE323
+312,Eman Kamal ,AIE111
+313,Eman Kamal ,CSE014
+314,Rawan Emad,PHY261
+315,Rawan Emad,CSE015
+316,Rawan Emad,CSE113
+317,Rawan Emad,AIE323
+318,Rawan Emad,AIE111
+319,Rawan Emad,CSE014
+320,Seleem Wael,PHY261
+321,Seleem Wael,CSE015
+322,Seleem Wael,CSE113
+323,Seleem Wael,AIE323
+324,Seleem Wael,AIE111
+325,Seleem Wael,CSE014
+326,Ziad Diaa,PHY261
+327,Ziad Diaa,CSE015
+328,Ziad Diaa,CSE113
+329,Ziad Diaa,AIE323
+330,Ziad Diaa,AIE111
+331,Ziad Diaa,CSE014
+332,Ali Ramy,PHY261
+333,Ali Ramy,CSE015
+334,Ali Ramy,CSE113
+335,Ali Ramy,AIE323
+336,Ali Ramy,AIE111
+337,Ali Ramy,CSE014
+338,Shreif Ali,PHY261
+339,Shreif Ali,CSE015
+340,Shreif Ali,CSE113
+341,Shreif Ali,AIE323
+342,Shreif Ali,AIE111
+343,Shreif Ali,CSE014
+344,,
+345,,
+346,,
+347,,
+348,,
+349,,
+350,,
+351,,
+352,,
+353,,
+354,,
+355,,
+356,,
+357,,
+358,,
+359,,
+360,,
+361,,
+362,,
+363,,
+364,,
+365,,
+366,,
+367,,
+368,,
+369,,
+370,,
+371,,
+372,,
+373,,
+374,,
+375,,
+376,,
+377,,
+378,,
+379,,
+380,,
+381,,
+382,,
+383,,
+384,,
+385,,
+386,,
+387,,
+388,,
+389,,
+390,,
+391,,
+392,,
+393,,
+394,,
+395,,
+396,,
+397,,
+398,,
+399,,
+400,,
+401,,
+402,,
+403,,
+404,,
+405,,
+406,,
+407,,
+408,,
+409,,
+410,,
+411,,
+412,,
+413,,
+414,,
+415,,
+416,,
+417,,
+418,,
+419,,
+420,,
+421,,
+422,,
+423,,
+424,,
+425,,
+426,,
+427,,
+428,,
+429,,
+430,,
+431,,
+432,,
+433,,
+434,,
+435,,
+436,,
+437,,
+438,,
+439,,
+440,,
+441,,
+442,,
+443,,
+444,,
+445,,
+446,,
+447,,
+448,,
+449,,
+450,,
+451,,
+452,,
+453,,
+454,,
+455,,
+456,,
+457,,
+458,,
+459,,
+460,,
+461,,
+462,,
+463,,
+464,,
+465,,
+466,,
+467,,
+468,,
+469,,
+470,,
+471,,
+472,,
+473,,
+474,,
+475,,
+476,,
+477,,
+478,,
+479,,
+480,,
+481,,
+482,,
+483,,
+484,,
+485,,
+486,,
+487,,
+488,,
+489,,
+490,,
+491,,
+492,,
+493,,
+494,,
+495,,
+496,,
+497,,
+498,,
+499,,
+500,,
+501,,
+502,,
+503,,
+504,,
+505,,
+506,,
+507,,
+508,,
+509,,
+510,,
+511,,
+512,,
+513,,
+514,,
+515,,
+516,,
+517,,
+518,,
+519,,
+520,,
+521,,
+522,,
+523,,
+524,,
+525,,
+526,,
+527,,
+528,,
+529,,
+530,,
+531,,
+532,,
+533,,
+534,,
+535,,
+536,,
+537,,
+538,,
+539,,
+540,,
+541,,
+542,,
+543,,
+544,,
+545,,
+546,,
+547,,
+548,,
+549,,
+550,,
+551,,
+552,,
+553,,
+554,,
+555,,
+556,,
+557,,
+558,,
+559,,
+560,,
+561,,
+562,,
+563,,
+564,,
+565,,
+566,,
+567,,
+568,,
+569,,
+570,,
+571,,
+572,,
+573,,
+574,,
+575,,
+576,,
+577,,
+578,,
+579,,
+580,,
+581,,
+582,,
+583,,
+584,,
+585,,
+586,,
+587,,
+588,,
+589,,
+590,,
+591,,
+592,,
+593,,
+594,,
+595,,
+596,,
+597,,
+598,,
+599,,
+600,,
+601,,
+602,,
+603,,
+604,,
+605,,
+606,,
+607,,
+608,,
+609,,
+610,,
+611,,
+612,,
+613,,
+614,,
+615,,
+616,,
+617,,
+618,,
+619,,
+620,,
+621,,
+622,,
+623,,
+624,,
+625,,
+626,,
+627,,
+628,,
+629,,
+630,,
+631,,
+632,,
+633,,
+634,,
+635,,
+636,,
+637,,
+638,,
+639,,
+640,,
+641,,
+642,,
+643,,
+644,,
+645,,
+646,,
+647,,
+648,,
+649,,
+650,,
+651,,
+652,,
+653,,
+654,,
+655,,
+656,,
+657,,
+658,,
+659,,
+660,,
+661,,
+662,,
+663,,
+664,,
+665,,
+666,,
+667,,
+668,,
+669,,
+670,,
+671,,
+672,,
+673,,
+674,,
+675,,
+676,,
+677,,
+678,,
+679,,
+680,,
+681,,
+682,,
+683,,
+684,,
+685,,
+686,,
+687,,
+688,,
+689,,
+690,,
+691,,
+692,,
+693,,
+694,,
+695,,
+696,,
+697,,
+698,,
+699,,
+700,,
+701,,
+702,,
+703,,
+704,,
+705,,
+706,,
+707,,
+708,,
+709,,
+710,,
+711,,
+712,,
+713,,
+714,,
+715,,
+716,,
+717,,
+718,,
+719,,
+720,,
+721,,
+722,,
+723,,
+724,,
+725,,
+726,,
+727,,
+728,,
+729,,
+730,,
+731,,
+732,,
+733,,
+734,,
+735,,
+736,,
+737,,
+738,,
+739,,
+740,,
+741,,
+742,,
+743,,
+744,,
+745,,
+746,,
+747,,
+748,,
+749,,
+750,,
+751,,
+752,,
+753,,
+754,,
+755,,
+756,,
+757,,
+758,,
+759,,
+760,,
+761,,
+762,,
+763,,
+764,,
+765,,
+766,,
+767,,
+768,,
+769,,
+770,,
+771,,
+772,,
+773,,
+774,,
+775,,
+776,,
+777,,
+778,,
+779,,
+780,,
+781,,
+782,,
+783,,
+784,,
+785,,
+786,,
+787,,
+788,,
+789,,
+790,,
+791,,
+792,,
+793,,
+794,,
+795,,
+796,,
+797,,
+798,,
+799,,
+800,,
+801,,
+802,,
+803,,
+804,,
+805,,
+806,,
+807,,
+808,,
+809,,
+810,,
+811,,
+812,,
+813,,
+814,,
+815,,
+816,,
+817,,
+818,,
+819,,
